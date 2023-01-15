@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("This is version v0.1.0")
 	fmt.Println("This is version v0.2.0")
 	fmt.Println("This is version v0.3.0")
+	fmt.Println("This is version v0.4.0")
 }
